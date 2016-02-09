@@ -3,7 +3,7 @@
 //  Yelp
 //
 //  Created by Jamel Peralta Coss on 4/23/15.
-//  Copyright (c) 2015 Timothy Lee. All rights reserved.
+//  Copyright (c) 2015 Jamel Peralta. All rights reserved.
 //
 
 import UIKit
